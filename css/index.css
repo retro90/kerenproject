@@ -1,0 +1,42 @@
+body {
+  background-image: url("../images/untitleddesign.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+#first {
+  font-family: 'Anton', sans-serif;
+  border-style: solid double;
+  border-color: white;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  text-shadow: 3px 3px 10px white;
+  width: 600px;
+  margin: auto;
+}
+#footer {
+  font-size: 30px;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 1.1em;
+  color: gray;
+  font-family: 'Lobster Two', cursive;
+}
+a {
+  color: white;
+font-family: 'Combo', cursive;
+
+}
+a:link {
+  text-decoration:none;
+}
+a:hover {
+  cursor: crosshair;
+  text-shadow: 0 0 10px #999999;
+  text-decoration: line-through black;
+  text-transform: uppercase;
+  font-family: 'Combo', cursive;
+
+}

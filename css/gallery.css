@@ -1,0 +1,61 @@
+body {
+  background-image: url("../images/untitleddesign.jpg");
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  margin: 100px 150px 100px 80px;
+
+}
+
+#first {
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  text-shadow: 3px 3px 10px white;
+
+
+}
+#footer {
+  font-size: 30px;
+  color: gray;
+  text-align: center;
+  font-family: 'Combo', cursive;
+}
+nav {
+  border: double black;
+  margin: 2.6em;
+}
+.subheading {
+  font-family: 'Lobster Two', cursive;
+  text-decoration: underline;
+  color: gray;
+  font-size: 30px;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  padding: 1.1em;
+  color: gray;
+  font-family: 'Lobster Two', cursive;
+}
+a {
+  color: white;
+}
+a:link {
+  text-decoration:none;
+}
+a:hover {
+  cursor: crosshair;
+  text-shadow: 0 0 4px #ffffff;
+  text-decoration: line-through black;
+  text-transform: uppercase;
+  font-family: 'Combo', cursive;
+}
+img {
+  border: 3px solid black;
+  margin:auto;
+  border-radius: 50%
+}
+album-thumbnails {
+padding: 1.1em;
+}
